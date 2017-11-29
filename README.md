@@ -4,7 +4,7 @@
 To get started with building Android from source, you'll need to get familiar with [Establishing a build environment](http://source.android.com/source/initializing.html).
 
 ## Sync Android Source (AOSP)
- * $ repo init -u https://github.com/Dileepkv/test-build/tree/marshmallow -b marshmallow
+ * $ repo init -u https://github.com/Dileepkv/test-build -b marshmallow
  * $ repo sync
 
 ## Build Kernel
